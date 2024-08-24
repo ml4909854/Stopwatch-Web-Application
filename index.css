@@ -1,0 +1,39 @@
+
+
+
+
+body {
+    background-color: yellow;
+   margin-top: 150px;
+}
+
+#container {
+    margin: auto;
+    /* margin-top: auto; */
+    padding-top: 10px;
+    border-radius: 10px;
+    text-align: center;
+    color: whitesmoke;
+    width: 350px;
+    height: 250px;
+    background-image: linear-gradient(black, grey);
+
+}
+#timer{
+    /* margin-top: ; */
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+#stop {
+    width: 50px;
+}
+
+#reset {
+    width: 50px;
+}
+#heading{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
